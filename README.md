@@ -21,6 +21,6 @@
 ###### Eğer bu sorunu yaşıyorsanız [buradaki](https://forms.gle/UME8LJTcJzSXzAyM9 "0%'da kalma sorunu") anketi doldurarak çözümü bulmamızda yardımcı olabilirsiniz
 ## "ERROR DURING LOGIN" hatası
 ##### Lütfen [yeni versiyon](https://drive.google.com/drive/folders/1RHzRPreiNnP-t8IOwgVVTelBId_REvSI "Andr Launcher İndirme")unu indiriniz... Eğer yeni versiyonunda da aynı sorun varsa alttaki anketten bize bildiriniz.
-###### Eğer yukaradakilerden hiç biri sizin hatanızla aynı değilse [buradaki](https://forms.gle/UME8LJTcJzSXzAyM9 "0%'da kalma sorunu") anketi doldurup bize gönderiniz. Anketinizi incelenip onayladıktan sonra buraya eklenilecektir.
+###### Eğer bu sorunu yaşıyorsanız [buradaki](https://forms.gle/vo1XSA6vJA8BoMyPA ""ERROR DURING LOGIN" hatası") anketi doldurarak çözümü bulmamızda yardımcı olabilirsiniz
 ## Diğer...
-###### Eğer yukaradakilerden hiç biri sizin hatanızla aynı değilse [buradaki](https://forms.gle/UME8LJTcJzSXzAyM9 "0%'da kalma sorunu") anketi doldurup bize gönderiniz. Anketinizi incelenip onayladıktan sonra buraya eklenilecektir.
+###### Eğer yukaradakilerden hiç biri sizin hatanızla aynı değilse [buradaki](https://forms.gle/Pb8wrzeHd7UyFZxX9 "Diğer") anketi doldurup bize gönderiniz. Anketinizi incelenip onayladıktan sonra buraya eklenilecektir.
