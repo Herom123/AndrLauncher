@@ -4,7 +4,7 @@
 ###### ・%AppData%'dan "AndrLauncher" klasörünü silin.
 ###### ・Ardından "Andr Launcher" programını kaldırın.
 ###### ・Kaldırma işlemi tamamlanınca [buradan](https://drive.google.com/drive/folders/1RHzRPreiNnP-t8IOwgVVTelBId_REvSI "Andr Launcher İndirme") sisteminize uygun olan yükleyiciyi indirip çalıştırınız.
-###### ・Eğer "Windows kişisel bilgisayarınızı korudu" başlıklı bir pencere çıkarsa "Ek Bilgi" yazısına tıklayıp Yinede Çalıştır seçeneğine tıklayınız.
+###### ・Eğer "Windows kişisel bilgisayarınızı korudu" başlıklı bir pencere çıkarsa "Ek Bilgi" yazısına tıklayıp "Yinede Çalıştır" seçeneğine tıklayınız.
 ###### ・Yükleme bitince launcher'ı açın ve bir oyun ismi yazıp giriş yapın.
 ###### ・Ayarlar kısmına girip "Oyun başlayınca otomatik gizle" seçeneğini kapatın.
 ###### ・Ardından sol taraftan java sekmesini girin ve  raminizin 0.5GB'tan fazla olduğuna emin olun.
