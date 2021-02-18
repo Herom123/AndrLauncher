@@ -1,5 +1,5 @@
 #Andr Launcher Yardım
-####[Eğer sorun yaşıyorsanız lütfen önce şu adımları uygulayın işe yaramazlar ise alttaki yönergeleri takip ediniz..](#)
+#### .[Eğer sorun yaşıyorsanız lütfen önce şu adımları uygulayın işe yaramazlar ise alttaki yönergeleri takip ediniz..](#)
 ###### ・Ayarlar kısmından "Oyun dosyalarını resetle" tuşuna basıp ardından "Anladım"a tıklayınız.
 ###### ・%AppData%'dan "AndrLauncher" klasörünü silin.
 ###### ・Ardından "Andr Launcher" programını kaldırın.
